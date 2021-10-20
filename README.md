@@ -18,7 +18,7 @@ Average fare for a ride in rural is $34.62 compared to Urban that is $24.53, Tot
 
 ![scatterplot](resources/pyberscatterplot_fig1.png)
 
-Recommendations to improve accessibility and affordability of Pyber app : 
+**Recommendations to improve accessibility and affordability of Pyber app :**
 
 1. There are few ways to Reduce average cost per ride in rural areas,Pyber can reduce cost per ride by increasing ride count,reduce cost involved to operate in rural areas ,  advertise the app and its easy of use in social media targetting the rural locations we are try to reach. when we get more ride shares we will be able to reduce the average cost per ride. 
 
