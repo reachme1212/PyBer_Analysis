@@ -1,9 +1,8 @@
 **PyBer Rideshare data analysis**
 
-**Overview of the analysis: **
+**Overview of the analysis:**
 
 I am analyzing the data of a ride sharing company Pyber. Purpose of this analysis is to find metrics that will increase accessibility of the rides sharing app Pyber and improve affordability of the service in underserved neighborhood like rural cities.
-
 
 
 **Results:**
